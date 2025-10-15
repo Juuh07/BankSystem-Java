@@ -32,3 +32,7 @@
 - Sobrescrita de Método: Sobrescreve o método exibirDetalhes() para incluir a taxa de juros na exibição.
 
 ---
+
+Feito por **[Júlia Martins](https://github.com/Juuh07)**  
+
+---
