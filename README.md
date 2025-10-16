@@ -33,6 +33,6 @@
 
 ---
 
-Feito por **[Júlia Martins](https://github.com/Juuh07)**  
+by **[Júlia Martins](https://github.com/Juuh07)**  
 
 ---
